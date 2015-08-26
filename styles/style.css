@@ -50,16 +50,15 @@ input {
   text-decoration: none;
 }
 
-h1, h3 {
+h1,h5 {
   font-family: 'Open Sans', 'Helvetica', 'Sans-Serif';
   letter-spacing: 0.5px;
   color: #3C474D;
 }
-h3 {
+h5 {
   font-family: 'Open Sans', 'Helvetica', 'Sans-Serif';
   letter-spacing: 0.5px;
   color: #646465;
-
 }
 .search {
   font-family: 'Open Sans', 'Helvetica', 'Sans-Serif';
